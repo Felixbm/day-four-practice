@@ -1,0 +1,41 @@
+.xs-height {
+  height: 20px;
+  background-color: #000;
+}
+
+.sm-height {
+  height: 60px;
+  background-color: #000;
+}
+
+
+
+.md-height {
+  height: 180px;
+  background-color: #000;
+  margin: 20px 0px;
+}
+
+.lg-height {
+  height:540px;
+  background-color: #000;
+  margin-top: 20px;
+}
+
+#outer {
+  margin-top: 50px;
+}
+
+.horizontal-gutter {
+  margin: 0 30px;
+}
+
+
+.long-sm-block {
+  margin-top: 20px;
+}
+
+.medium-gutter {
+  margin-left: 95px;
+  margin-right: 95px;
+}
